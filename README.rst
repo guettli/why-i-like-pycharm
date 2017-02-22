@@ -30,3 +30,12 @@ shift-shift TERM
 
 ctrl-shift-f full-text search
 
+open source?
+------------
+
+I don't know if pyCharm is open source or not. I don't care. I don't use it as library.
+
+I care of all libraries I use for my code: I avoid GPL and like BSD-like licences.
+
+(comparison: I would by PhotoShop if it would run on linux. I use, but don't like gimp)
+
