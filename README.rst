@@ -18,6 +18,8 @@ File editing
 
 Changes in file (green bar if new, small gray triangle for deletions).
 
+strg-o (inside a class) --> Provide list of methods which could be **o**verridden.
+
 git
 ---
 
