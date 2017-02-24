@@ -39,3 +39,7 @@ I care of all libraries I use for my code: I avoid GPL and like BSD-like licence
 
 (comparison: I would by PhotoShop if it would run on linux. I use, but don't like gimp)
 
+Community
+---------
+
+Questions at StackOverflow get answers soon.
