@@ -41,6 +41,13 @@ I care of all libraries I use for my code: I avoid GPL and like BSD-like licence
 
 (comparison: I would by PhotoShop if it would run on linux. I use, but don't like gimp)
 
+See unneeded or broken code
+---------------------------
+
+PyCharm paints unneeded variables light-gray and syntax errors in eye catching red.
+
+I like this.
+
 Community
 ---------
 
