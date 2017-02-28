@@ -52,3 +52,13 @@ Community
 ---------
 
 Questions at StackOverflow get answers soon.
+
+Use modern hardware
+-------------------
+
+This was different in the past. A well known and respected expert said
+
+> "I use old hardware on pupose. If it works (and is fast enough) on old hardware, then
+> it will be very fast a new hardware".
+
+But time has changed. A modern IDE has many more advantages, which I don't want to miss any more.
