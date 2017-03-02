@@ -31,6 +31,9 @@ searching
 shift-shift TERM
 
 ctrl-shift-f full-text search
+  
+  - Merge matches from the same line. This is a button at the left side.
+
 
 open source?
 ------------
