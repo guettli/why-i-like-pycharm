@@ -32,6 +32,7 @@ Some random notes
 
 * Below the code window there is a line where you can see the upper levels (method name, class name).
 
+* Exclude directories containing generated data. For example "staticfiles" directory in a Django context: right click "Mark Directory as > Excluded"
 
 ## Editing
 
