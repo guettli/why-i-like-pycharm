@@ -11,7 +11,7 @@ Some random notes
 
 * Not committed changes are highlighted with a green bar. You can easily get back to the original (or show the diff).
 
-* unused variables are visible, since they are lightgray.
+* unused variables easy to spot, since they are lightgray.
 
 
 ## Searching / Navigation
@@ -28,7 +28,7 @@ Some random notes
 
 * ctrl-click on method name: Find usage/definition.
 
-* OOP: You can jump to the implemenetation of the parent class, and down to the child classes.
+* OOP: You can jump up to the implemenetation of the parent class, and down to the child classes (Blue circle near the line number)
 
 * Below the code window there is a line where you can see the upper levels (method name, class name).
 
@@ -38,18 +38,16 @@ Some random notes
 
 * strg-alt-shift l --> reformat code
 
-* Refactor/Extract/Method
-
 * ctrl-shift-r: Like ctrl-r (replace), but in all files.
 
 * Mark method name, right mouse click: Refactor/rename
 
-* Mark region, right mouse click: Extract to method.
+* Mark region, right mouse click: "Rearactor / "Extract to method".
 
 
 # Tests
 
-* Execute pytest directly. You need to change the default test-runner first.
+* Execute pytest directly. You might need to change the default test-runner first.
 
 * Execute Django's runserver: Run / Edit Configuration / add ...
 
@@ -59,8 +57,8 @@ Some random notes
 
 * shift-shift "hist sel" --> History for Selection. Great!
 
-* Handling git merge conflicts is better with PyCharm than the tool Meld: If two commits added roughly the same, you see the difference
-between both new versions.
+* Handling git merge conflicts is better with PyCharm than the tool Meld: If two commits added roughly the same line, you see the difference
+between both lines.
 
 * Somehow I prefer to do the usual git operations (checkout, commit, push, log) with the command-line. 
 
