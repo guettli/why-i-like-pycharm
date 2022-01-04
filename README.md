@@ -18,7 +18,7 @@ Some random notes
 * ctrl-shift-f: Like ctrl-f (find), but in all files.
 * alt-shift cursor left/right: Navigate through the code places you visited during the last minutes.
 * ctrl-shift-e: PopUp window of "Recent Locations". If you press this twice you see the recent locations with "show edited only" enabled.
-* ctrl-e: List of last files: I like this to "blindly" jump between two files. Usualy production-code and test-code.
+* ctrl-e: List of last files: I like this to "blindly" jump between two files. Usually between production-code and test-code.
 * ctrl-click on method name: Find usage/definition.
 * OOP: You can jump up to the implemenetation of the parent class, and down to the child classes (Blue circle near the line number)
 * Below the code window there is a line where you can see the upper levels (method name, class name).
