@@ -58,6 +58,7 @@ between both lines.
 * Integrated terminal. But [IDEA-155783 "Alt ." not working](https://youtrack.jetbrains.com/issue/IDEA-155783)
 * TODO list: Pycharm lists all TODOs. That's cool, if you somehow restrict that the main branch does not contain TODOs (only branches are allowed to have them). Otherwise the list is unusable since your new TODO items are between year old TODO items which are not part of your current task.
 * Copy import-string of a file: right mouse click on a method, context menu "Copy / Paste Special .. Copy Reference"
+* Up to now the grep output in a terminal are not hyperlinks. This would be great. But a feature request exists: [Terminal toolwindow should linkify references to project sources](https://youtrack.jetbrains.com/issue/IDEA-154439)
 
 ## General
 
