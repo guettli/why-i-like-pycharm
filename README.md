@@ -24,6 +24,8 @@ Some random notes
 * Below the code window there is a line where you can see the upper levels (method name, class name).
 * Exclude directories containing generated data. For example "staticfiles" directory in a Django context: right click "Mark Directory as > Excluded"
 * Alt-F12: Open terminal.
+* Comparing two file. If both files are in the same directory the easiest way is via "Project", then ctrl-click the first, then the second, then right-click "Compare Files".
+* Comparing two files which are not in the same directory. Since scrolling trough a big tree-view of directories and files is no fun: Open the first file. Then use steering wheel in Projects to navigate the tree-view to the file. Then open the second file, Then go to the first file in the tree-view again, don't left-click, just right click, then "Compare to Editor". The procedure sound complicated, but once you understood it, it's easy.
 
 ## Editing
 
