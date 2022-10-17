@@ -61,6 +61,7 @@ between both lines.
 * TODO list: Pycharm lists all TODOs. That's cool, if you somehow restrict that the main branch does not contain TODOs (only branches are allowed to have them). Otherwise the list is unusable since your new TODO items are between year old TODO items which are not part of your current task.
 * Copy import-string of a file: right mouse click on a method, context menu "Copy / Paste Special .. Copy Reference"
 * Up to now the grep output in a terminal are not hyperlinks. This would be great. But a feature request exists: [Terminal toolwindow should linkify references to project sources](https://youtrack.jetbrains.com/issue/IDEA-154439)
+* If you use [tox](https://tox.wiki/) to run tests in different environments, then every environment creates a lot of files in `.tox/`. This can slow down PyCharm. You can manually mark the directory as "Excluded". But if you have many repos, this might get too much manual configuration. You can use [Settings > Editor > File Types > TAB Ingored Files > add .tox](https://youtrack.jetbrains.com/issue/PY-5982/Do-not-parse-tox-folder-content#focus=Comments-27-6507023.0-0)
 
 ## General
 
